@@ -17,8 +17,15 @@ JS.Geo V5 is free to attend, but seats fills up quickly. Tickets will be availab
 ### Sponsorship
 Like its companion GeoRodeo, JS.Geo V5 is completely free to attend. This is only possible with the support of our sponsors. Through this sponsorship we’re able to cover venue costs and keep JS.Geo accessible to all. This year's sponsors include:
 
-<a href="https://www.azavea.com/"><img src="sponsors/azavea.png" width=300></a> <a href="https://developmentseed.org"><img src="sponsors/devseed.png" width=300></a>
+[![azavea](sponsors/azavea.png)](https://www.azavea.com/) 
 
-<a href="https://www.planet.com"><img src="sponsors/planet.png" width=300></a> <a href="https://www.solspec.solutions"><img src="sponsors/solspec.png" width=300></a>
+
+[![development seed](sponsors/devseed.png)](https://developmentseed.org) 
+
+
+[![planet](sponsors/planet.png)](https://www.planet.com) 
+
+
+[![solspec](sponsors/solspec.png)](https://www.solspec.solutions) 
 
 If you or your company are interested in being one of our sponsors this year, [reach out and let our organizers know](mailto:jsgeo-organizers@groups.io).
