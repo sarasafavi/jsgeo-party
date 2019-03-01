@@ -7,14 +7,20 @@ JS.Geo V5 is open to anyone and everyone interested in attending, with a special
 ### Venue
 This year's event will be co-located with the annual [GeoRodeo](https://tnris.org/georodeo/) conference. Our venue will be Austin’s amazing Central Library, located at [710 W. César Chávez St. Austin, TX, 78701](https://goo.gl/maps/53fzj43xKqk).
 
-### Speak
-Our CFP is open March 1-April 1, 2019: [Submit your idea today!](https://www.papercall.io/jsgeo)
-
 ### Schedule
 _Coming soon._
 
+### Speak
+Our CFP is open March 1-April 1, 2019: [Submit your idea today!](https://www.papercall.io/jsgeo)
+
 ### Attend
-JS.Geo V5 is free to attend, but seats fills up quickly. Tickets will be available soon - stay tuned!
+JS.Geo V5 is free to attend, but seats fills up quickly. Tickets will be
+available soon - stay tuned!
+
+### Conduct
+
+All sponsors, attendees and participating organizations at JSGeo are required
+to agree to our [Code of Conduct](conduct.html). 
 
 ### Sponsorship
 Like its companion GeoRodeo, JS.Geo V5 is completely free to attend. This is only possible with the support of our sponsors. Through this sponsorship we’re able to cover venue costs and keep JS.Geo accessible to all. This year's sponsors include:
