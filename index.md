@@ -11,11 +11,13 @@ Planning to attend GeoRodeo / JS.Geo? Unable to attend but want to join the conv
 This year's event will be co-located with the annual [GeoRodeo](https://tnris.org/georodeo/) conference. Our venue will be Austin’s amazing Central Library, located at [710 W. César Chávez St. Austin, TX, 78701](https://goo.gl/maps/53fzj43xKqk).
 
 ### Schedule
-_Coming soon._
+
+<iframe width="99%" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSlJyDcTDZqIDs6PZpdtb6BiOlxTcEgEYJVhbWICIO2Uuovv8tTh8m-TC9loIKmaPG_cijrafwJB50/pubhtml?gid=500707188&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[View full schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTSlJyDcTDZqIDs6PZpdtb6BiOlxTcEgEYJVhbWICIO2Uuovv8tTh8m-TC9loIKmaPG_cijrafwJB50/pubhtml?gid=500707188&single=true)
 
 ### Attend
-JS.Geo V5 is free to attend, but seats fills up quickly. Tickets will be
-available soon - stay tuned!
+JS.Geo V5 is free to attend, but seats fills up quickly. To guarantee your spot, [register here now](https://www.eventbrite.com/e/jsgeo-v5-tickets-58757366866). **Note:** registration is not required - walk-ins will be admitted starting at 9am, as long as seats are available.
 
 ### Conduct
 
