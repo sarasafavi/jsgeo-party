@@ -38,4 +38,8 @@ Like its companion GeoRodeo, JS.Geo V5 is completely free to attend. This is onl
 
 [![solspec](sponsors/solspec.png)](https://www.solspec.solutions) 
 
+
+[![mapbox](sponsors/mapbox.png)](https://www.mapbox.com)
+
+
 If you or your company are interested in being one of our sponsors this year, [reach out and let our organizers know](mailto:jsgeo-organizers@groups.io).
