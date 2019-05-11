@@ -9,12 +9,26 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link href="https://api.mapbox.com/mapbox-assembly/v0.23.2/assembly.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      .bg-gradient {
+        background-color: #159957;
+        background-image: linear-gradient(120deg, #155799, #159957);
+      }
+    </style>
   </head>
   <body>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    <header class="bg-gradient" role="banner">
+      <div id="particles" class="relative h240-mm h180">
+        <div class="limiter h-full">
+          <div class="flex-parent h-full flex-parent--center-main flex-parent--center-cross">
+            <div class="flex-child align-center color-white">
+              <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+              <h2 class="project-tagline mb0">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+            <div>
+          </div>
+        </div>
+      </div>
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -23,5 +37,11 @@
       <footer class="site-footer">
       </footer>
     </main>
+    <script src="/assets/particles.min.js"></script>
+    <script>
+      particlesJS.load('particles', '/assets/particlesjs-config.json', function() {
+        document.querySelector('.particles-js-canvas-el').className += ' absolute top left bottom right'
+      });
+    </script>
   </body>
 </html>
