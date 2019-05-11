@@ -25,21 +25,16 @@ All sponsors, attendees and participating organizations at JSGeo are required
 to agree to our [Code of Conduct](conduct.html). 
 
 ### Sponsorship
+
 Like its companion GeoRodeo, JS.Geo V5 is completely free to attend. This is only possible with the support of our sponsors. Through this sponsorship we’re able to cover venue costs and keep JS.Geo accessible to all. This year's sponsors include:
 
-[![azavea](sponsors/azavea.png)](https://www.azavea.com/) 
-
-
-[![development seed](sponsors/devseed.png)](https://developmentseed.org) 
-
-
-[![planet](sponsors/planet.png)](https://www.planet.com) 
-
-
-[![solspec](sponsors/solspec.png)](https://www.solspec.solutions) 
-
-
-[![mapbox](sponsors/mapbox.png)](https://www.mapbox.com)
+<div class="flex-parent flex-parent--center-main flex-parent--wrap">
+  <div class="flex-child flex-parent flex-parent--center-cross wmax300 px18 py30"><a alt="Azavea" href="https://www.azavea.com/"><img class="flex-child" src="/sponsors/azavea.png"></a></div>
+  <div class="flex-child flex-parent flex-parent--center-cross wmax300 px18 py30"><a alt="Development Seed" href="https://developmentseed.org"><img class="flex-child" src="/sponsors/devseed.png"></a></div>
+  <div class="flex-child flex-parent flex-parent--center-cross wmax300 px18 py30"><a alt="Planet" href="https://www.planet.com"><img class="flex-child" src="/sponsors/planet.png"></a></div>
+  <div class="flex-child flex-parent flex-parent--center-cross wmax300 px18 py30"><a alt="Solspec" href="https://www.solspec.solutions"><img class="flex-child" src="/sponsors/solspec.png"></a></div>
+  <div class="flex-child flex-parent flex-parent--center-cross wmax300 px18 py30"><a alt="Mapbox" href="https://www.mapbox.com"><img class="flex-child" src="/sponsors/mapbox.png"></a></div>
+</div>
 
 
 If you or your company are interested in being one of our sponsors this year, [reach out and let our organizers know](mailto:jsgeo-organizers@groups.io).
